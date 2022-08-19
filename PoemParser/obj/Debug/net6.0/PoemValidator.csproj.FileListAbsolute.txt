@@ -1,0 +1,16 @@
+C:\Users\g7\source\repos\PoemParser\PoemParser\bin\Debug\net6.0\PoemValidator.exe
+C:\Users\g7\source\repos\PoemParser\PoemParser\bin\Debug\net6.0\PoemValidator.deps.json
+C:\Users\g7\source\repos\PoemParser\PoemParser\bin\Debug\net6.0\PoemValidator.runtimeconfig.json
+C:\Users\g7\source\repos\PoemParser\PoemParser\bin\Debug\net6.0\PoemValidator.dll
+C:\Users\g7\source\repos\PoemParser\PoemParser\bin\Debug\net6.0\ref\PoemValidator.dll
+C:\Users\g7\source\repos\PoemParser\PoemParser\bin\Debug\net6.0\PoemValidator.pdb
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\PoemValidator.csproj.AssemblyReference.cache
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\PoemValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\PoemValidator.AssemblyInfoInputs.cache
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\PoemValidator.AssemblyInfo.cs
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\PoemValidator.csproj.CoreCompileInputs.cache
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\PoemValidator.dll
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\ref\PoemValidator.dll
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\PoemValidator.pdb
+C:\Users\g7\source\repos\PoemParser\PoemParser\obj\Debug\net6.0\PoemValidator.genruntimeconfig.cache
+C:\Users\g7\source\repos\PoemParser\PoemParser\bin\Debug\net6.0\Poem1.txt
